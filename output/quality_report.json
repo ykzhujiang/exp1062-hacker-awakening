@@ -1,0 +1,11 @@
+{
+  "total_segments": 1,
+  "passed": 1,
+  "segments": {
+    "Segment_01": {
+      "video": "/Users/ahzhu_agent/.openclaw/workspace/projects/exp1062-hacker-awakening/output/Segment_01_v1.mp4",
+      "verdict": "PASS",
+      "version": 1
+    }
+  }
+}
