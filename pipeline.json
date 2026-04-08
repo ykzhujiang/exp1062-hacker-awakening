@@ -1,0 +1,33 @@
+{
+  "project": "exp1062-hacker-awakening",
+  "created_at": "2026-04-08T02:17:40.737213+00:00",
+  "github_repo": "ykzhujiang/exp1062-hacker-awakening",
+  "config": {
+    "theme": "黑客觉醒：逆向天赋系统",
+    "genre": "system-awakening",
+    "style": "realistic",
+    "duration": 60,
+    "characters": 2,
+    "setting": "2003年中国大学校园",
+    "ratio": "9:16",
+    "episode": "ep01"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
