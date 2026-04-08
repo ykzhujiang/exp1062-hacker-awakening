@@ -12,7 +12,7 @@
     "ratio": "9:16",
     "episode": "ep01"
   },
-  "status": "step3_in_progress",
+  "status": "step3_done",
   "steps": {
     "step1b": {
       "status": "not_started"
@@ -26,8 +26,11 @@
       "storyboard_verdict": "SKIP"
     },
     "step3": {
-      "status": "in_progress",
-      "started_at": "2026-04-08T02:24:37.211065+00:00"
+      "status": "done",
+      "started_at": "2026-04-08T02:24:37.211065+00:00",
+      "completed_at": "2026-04-08T02:26:55.752347+00:00",
+      "output": "assets/asset-map.json",
+      "asset_count": 1
     },
     "step4": {
       "status": "not_started"
