@@ -1,0 +1,31 @@
+{
+  "verdict": "PASS",
+  "style": "realistic",
+  "assets": [
+    {
+      "label": "林铮",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    },
+    {
+      "label": "宿舍-深夜",
+      "type": "scene",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [
+        "海报上的'杰'字存在轻微错别字"
+      ],
+      "retry_suggestion": null
+    }
+  ],
+  "summary": "2/2 assets passed"
+}
